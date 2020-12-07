@@ -1,6 +1,5 @@
 package com.acme.tour.controller
 
-import com.acme.tour.exception.PromocaoNotFoundException
 import com.acme.tour.model.ErrorMessage
 import com.acme.tour.model.Promocao
 import com.acme.tour.model.RespostaJSON
@@ -34,7 +33,7 @@ class PromocaoController {
 
   @GetMapping()
   fun getAll(@RequestParam(required = false, defaultValue = "0") start: Int,
-             @RequestParam(required = false, defaultValue = "3") size: Int): ResponseEntity<List<Promocao>> {
+             @RequestParam(required = false, defaultValue = "4") size: Int): ResponseEntity<List<Promocao>> {
 
     val listaPromocao = promocaoService.getAll(start, size)
 
