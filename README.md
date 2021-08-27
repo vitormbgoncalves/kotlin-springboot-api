@@ -6,7 +6,7 @@ An example from the `kotlin-springboot-api` is deployed on Heroku, access API do
 
 ## 🚀 About this project
 
-This project was developed based on Udemy's course [*__Desenvolva uma aplicação com Spring Boot e linguagem Kotlin.__*](https://www.udemy.com/course/desenvolva-uma-aplicacao-com-spring-boot-e-linguagem-kotlin/), taught by Leonardo Silva da Gloria.
+This project was developed based on Udemy's course [*__Desenvolva uma aplicação com Spring Boot e linguagem Kotlin__*](https://www.udemy.com/course/desenvolva-uma-aplicacao-com-spring-boot-e-linguagem-kotlin/), taught by Leonardo Silva da Gloria.
 The objective of this project was to study the concepts of the Spring Boot framework together with the Kotlin programming language for the development of RESTful Web Services.
 The code consists of Rest Web Services built with Kotlin, Spring Boot and MySQL. This service provides functionalities for the registration system of a travel agency.
 
