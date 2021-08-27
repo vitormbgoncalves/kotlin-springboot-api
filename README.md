@@ -14,6 +14,7 @@ The code consists of Rest Web Services built with Kotlin, Spring Boot and MySQL.
 
 - [**JDK 11**](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) - Java language support development kit;
 - [**Maven**](https://maven.apache.org/) - for project management and build tool;
+- [**Kotlin 1.4**](https://kotlinlang.org/docs/home.html) - our language of choice;
 - [**Spring Boot**](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) - for creating web application;
 - [**Spring Data JPA**](https://spring.io/projects/spring-data-jpa) - to access database;
 - [**Swagger**](https://springdoc.org/) - for OpenAPI 2 documentation generation;
