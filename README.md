@@ -20,7 +20,7 @@ The code consists of Rest Web Services built with Kotlin, Spring Boot and MySQL.
 - [**Swagger**](https://springdoc.org/) - for OpenAPI 2 documentation generation;
 - [**MySQL**](https://www.mysql.com/) - for database;
 - [**Insomnia**](https://insomnia.rest/) - for API development testing;
-- [**Heroku**](https://heroku.co) - for deployment and production testing;
+- [**Heroku**](https://heroku.co) - for deployment and production testing.
 
 ## 📀 Running
 
